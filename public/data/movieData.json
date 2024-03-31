@@ -1,0 +1,50 @@
+[
+    {
+      "_id": 1,
+      "bgImg": "../assets/movies/Horimiya.jpg",
+      "previewImg": "../assets/movies/Horimiya2.jpg",
+      "video": "https://www.youtube.com/watch?v=tzWy6E7Onr4",
+      "title": "Hori-san to Miyamura-kun",
+      "year": "2021",
+      "name": "Horimiya",
+      "ageLimit": "-",
+      "length": "25min",
+      "category": "Comédie",
+      "category2": "Romance",
+      "type": "coming",
+      "description": "Kyōko Hori est une lycéenne brillante et populaire, contrastant avec son camarade de classe, Izumi Miyamura, un garçon lugubre et supposé otaku portant des lunettes. En dehors de l'école, Hori est une casanière qui s'habille simplement et s'occupe de la maison et de son jeune frère Sōta. Un jour, lorsque Sōta est rentré chez lui blessé, il a été aidé par un inconnu aux multiples piercings. Cette personne se révèle être Miyamura. Tout en étant surprise par le fait qu'il est une personne différente à l'école, Hori est bouleversée quand Miyamura a vu sa véritable apparence à la maison, mais les deux acceptent de garder leur vraie personnalité secrète de leurs camarades de classe.",
+      "active": true
+    },
+    {
+      "_id": 2,
+      "bgImg": "../assets/movies/SevenSpellBlades.jpg",
+      "previewImg": "../assets/movies/SevenSpellBlades2.jpg",
+      "video": "https://www.youtube.com/watch?v=aparDTFfZxY",
+      "title": "Nanatsu no Maken ga Shihai Suru",
+      "year": "2023",
+      "name": "Reign of the Seven Spellblades",
+      "ageLimit": "-",
+      "length": "25min",
+      "category": "Action",
+      "category2": "Aventure",
+      "type": "coming",
+      "description": "Le printemps à la Kimberly Magic Academy, lorsque les nouveaux étudiants commencent leur première année. Un garçon, vêtu de robes noires avec une canne blanche et une épée attachée à la hanche, s'approche de la prestigieuse école. Ce jeune homme – Oliver – doit nouer des liens avec une fille brandissant un katana nommée Nanao s'il veut survivre aux dangers auxquels il doit faire face dans cette école qui est tout sauf ce qu'il semble être.",
+      "active": false
+    },
+    {
+      "_id": 3,
+      "bgImg": "../assets/movies/ADiaries.jpeg",
+      "previewImg": "../assets/movies/ADiaries2.jpg",
+      "video": "https://www.youtube.com/watch?v=NrFRYrMizEw",
+      "title": "Kusuriya no hitorigoto",
+      "year": "2023",
+      "name": "Les carnets de l'apothicaire",
+      "ageLimit": "-",
+      "length": "25min",
+      "category": "Drame",
+      "category2": "Historique",
+      "type": "coming",
+      "description": "À 17 ans, Mao Mao a une vie compliquée. Formée dès son jeune âge par un apothicaire du quartier des plaisirs, elle se retrouve enlevée et vendue comme servante dans le quartier des femmes du palais impérial. Entouré de hauts murs, il est coupé du monde extérieur. Afin de survivre dans cette prison de luxe grouillant de complots et de basses manœuvres, la jeune fille tente de cacher ses connaissances pour se fondre dans la masse. Mais quand les morts suspectes de princes nouveau-nés mettent la cour en émoi, sa passion pour les poisons prend le dessus. Elle observe, enquête et trouve la solution. En voulant bien faire, la voilà repérée. Jinshi, haut fonctionnaire aussi beau que calculateur, devine son talent et la promeut goûteuse personnelle d'une des favorites de l'empereur. Au beau milieu de ce nid de serpents, Mao Mao va utiliser toute son intelligence et tout son savoir pour démêler les intrigues de la cour car le moindre faux pas peut lui être fatal.",
+      "active": false
+    }
+  ]
