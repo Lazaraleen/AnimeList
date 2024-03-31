@@ -7,11 +7,11 @@ function Footer() {
             <div className="footer-top">
                 <div className="container">
                     <div className="row gy-4">
-                        <div className="col-lg-5 col-md-12 footer-info">
+                        <div className="footer-info">
                             <a href="/" className="Logo d-flex align-items-center">
-                                <span>CINEMA</span>
+                                <span>AnimeList</span>
                             </a>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis recusandae delectus quis, suscipit architecto rem exercitationem temporibus officiis doloremque eveniet, eum, eligendi fuga fugiat provident nam dolorum veniam quos atque.</p>
+                            <p>Ceci n'est qu'un petit projet d'adaptation d'un site de cinéma mais adapter avec certains animes que j'ai vu...</p>
                         </div>
                     </div>
                 </div>
@@ -23,9 +23,6 @@ function Footer() {
                         <span>DStudio Technology</span>
                     </strong>
                     . All Rights Reserved
-                </div>
-                <div className="credits">
-                    Designed by <a href="#">DStudio Technology</a>
                 </div>
             </div>
         </footer>
