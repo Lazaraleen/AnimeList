@@ -39,6 +39,16 @@ function Schedule() {
             name: 'Aventure',
             active: false,
         },
+        {
+            _id: 8,
+            name: 'Shonen',
+            active: false,
+        },
+        {
+            _id: 9,
+            name: 'Famille',
+            active: false,
+        }
     ];
 
     const [data, setData] = useState([]);

@@ -12,6 +12,7 @@ function MovieContent({movie}) {
                 <span>{movie.category2}</span>
             </h4>
             <p>{movie.description}</p>
+            <p>@Wikipedia</p>
         </div>
     )
 }

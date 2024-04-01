@@ -41,10 +41,10 @@ function Banner() {
                         />
                         <div className="container-fluid">
                             <div className="row">
-                                <div className="col-lg-6 col-md-12">
+                                <div className="col-lg-7 col-md-12">
                                     <MovieContent movie={movie}/>
                                 </div>
-                                <div className="col-lg-6 col-md-12 centreDate">
+                                <div className="col-lg-5 col-md-12 centreDate">
                                     <MovieName movie={movie}/>
                                     <PlayBtn movie={movie}/>
                                 </div>

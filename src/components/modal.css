@@ -1,7 +1,7 @@
 .movieModal {
     position: absolute;
     content: '';
-    top: 100px;
+    top: 50px;
     left: 100px;
     right: 100px;
     bottom: 20px;
@@ -37,4 +37,10 @@
 .movieModal.active {
     opacity: 1;
     visibility: visible;
+}
+
+.centered div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

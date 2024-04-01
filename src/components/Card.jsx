@@ -8,11 +8,7 @@ function Card({movie}) {
                 <img src={movie.previewImg} alt="Preview Img" className="img-fluid"/>
                 <p>{movie.length} | {movie.category}</p>
                 <div className="content">
-                    <h4>{movie.title}</h4>
-                    {/* <div className="card-icons">
-                        <ion-icon name="add-outline"></ion-icon>
-                        <ion-icon name="play-outline"></ion-icon>
-                    </div> */}
+                    <h4>{movie.name}</h4>
                 </div>
             </div>
         </div>
