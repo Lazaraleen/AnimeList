@@ -13,9 +13,9 @@ function PlayBtn({movie}) {
             <div 
                 className={`trailer d-flex align-items-center justify-content-center ${
                     movie.active ? 'active' : undefined
-                }`}
+                }`}                
             >
-                <a href="#" className="playBtn" onClick={toggleModal}>
+                <a href="#modalId" className="playBtn" onClick={toggleModal}>
                     <ion-icon name="play-outline"></ion-icon>
                 </a>
                 <p>Watch Trailer</p>

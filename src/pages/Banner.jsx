@@ -30,7 +30,7 @@ function Banner() {
     }
 
     return (
-        <div className="banner">
+        <div className="banner" id="modalId">
             {
                 movies && movies.length>0 && movies.map(movie=>(
                     <div className="movie">

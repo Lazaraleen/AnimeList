@@ -19,12 +19,12 @@ function Modal({movie, status, toggleModal}) {
       return () => {
         document.removeEventListener("mousedown", handleClickOutside);
       };
-    }, [status]);
+    });
 
     return (
-        <div className={`movieModal ${status ? 'active' : undefined}`} ref={modalRef}>
+        <div className={`movieModal ${status ? 'active' : undefined}`} ref={modalRef}> 
             <div className="centered">
-                <a href="#" className="modalClose" onClick={toggleModal}>
+                <a href="#modalId" className="modalClose" onClick={toggleModal}>                
                     <ion-icon name="close-outline"></ion-icon>
                 </a>
                 <ReactPlayer
