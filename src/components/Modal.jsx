@@ -34,8 +34,10 @@ function Modal({movie, status, toggleModal}) {
                     allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     allowFullScreen
                     controls
-                    width={1280}
-                    height={720}
+                    // width={1280}
+                    // height={720}
+                    width={1031}
+                    height={580}
                 />
             </div>
         </div>

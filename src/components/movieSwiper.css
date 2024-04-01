@@ -1,5 +1,5 @@
 .swiper {
-    padding-top: 30px;
+    padding-top: 1rem;
     /* padding-bottom: 50px; */
 }
 
@@ -17,8 +17,8 @@
 .swiper-slide {
     background-position: center;
     background-size: cover;
-    width: 150px;
-    height: 200px;
+    width: 6.5em;
+    height: 10em;
 }
 
 .swiper-slide img {

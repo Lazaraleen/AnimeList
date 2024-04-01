@@ -9,7 +9,7 @@ section .movie-card {
 
 section .movie-card .img-fluid{
     object-fit: cover;
-    height: 350px;
+    height: 15rem;
     width: 100%;
 }
 

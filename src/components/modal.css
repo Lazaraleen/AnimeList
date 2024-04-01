@@ -1,9 +1,9 @@
 .movieModal {
     position: absolute;
     content: '';
-    top: 50px;
-    left: 150px;
-    right: 150px;
+    top: 3rem;
+    left: 7rem;
+    right: 7rem;
     bottom: 20px;
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(20px);
