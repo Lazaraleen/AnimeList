@@ -32,3 +32,14 @@ header.scrolled {
 .nav {
     display: flex;
 }
+
+
+@media (max-width: 600px) {
+    header {
+        padding: 20px 40px;
+    }
+
+    .logo {
+        font-size: 1em;
+    }
+}

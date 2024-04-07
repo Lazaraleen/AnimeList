@@ -79,3 +79,18 @@
     flex-direction: column;
     justify-content: center;
 }
+
+
+@media (max-width: 600px) {
+    .banner {
+        padding: 0 50px;
+    }
+
+    .banner .movie {
+        padding: 60px 50px;
+    }
+
+    .banner .content {
+        max-width: 100%;
+    }
+}

@@ -48,6 +48,11 @@ function Schedule() {
             _id: 9,
             name: 'Famille',
             active: false,
+        },
+        {
+            _id: 10,
+            name: "Slice-of-life",
+            active: false,
         }
     ];
 

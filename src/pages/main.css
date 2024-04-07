@@ -64,3 +64,9 @@ section p {
     letter-spacing: 1px;
     margin-bottom: 40px;
 }
+
+@media (max-width: 600px) {
+    section {
+        padding: 60px 60px 20px;
+    }
+}
